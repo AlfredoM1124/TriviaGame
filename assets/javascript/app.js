@@ -1,6 +1,10 @@
 
 var timer;
+// New and Improved section
 
+// New and improved section ends
+
+// Old Code starts
 var trivia = {
 	// Set the boundaries of the game
 	time: 15,	
@@ -230,6 +234,7 @@ var trivia = {
 			gif: "assets/images/Odell.gif"
 		}
 	},
+	// Old Code Ends
 
 	//Method that starts the timer
 	startTimer: function() {
