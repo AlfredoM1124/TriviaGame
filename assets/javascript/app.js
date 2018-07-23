@@ -1,10 +1,11 @@
-
-var timer;
 // New and Improved section
-
+var panel = $("#quiz-area");
+var countStartNumber = 30;
 // New and improved section ends
 
 // Old Code starts
+var timer;
+
 var trivia = {
 	// Set the boundaries of the game
 	time: 15,	
