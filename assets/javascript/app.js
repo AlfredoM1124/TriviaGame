@@ -1,6 +1,58 @@
 // New and Improved section
 var panel = $("#quiz-area");
 var countStartNumber = 30;
+
+var questions = [{
+  question: "Which two players have the most Super Bowl rings of all time?",
+  answers: ["Randy Moss and Joe Montana", "Tom Brady and Charles Haley", "Tim Tebow and Jerry Rice", "Brett Farve and Julio Jones"],
+  correctAnswer: "Tom Brady and Charles Haley",
+  image: "assets/images/TomB.gif"
+}, {
+  question: "",
+  answers: ["", "", "", ""],
+  correctAnswer: "",
+  image: ""
+}, {
+  question: "",
+  answers: ["", "", "", ""],
+  correctAnswer: "",
+  image: ""
+}, {
+  question: "",
+  answers: ["", "", "", ""],
+  correctAnswer: "",
+  image: ""
+}, {
+  question: "",
+  answers: ["", "", "", ""],
+  correctAnswer: "",
+  image: ""
+}, {
+  question: "",
+  answers: ["", "", "", ""],
+  correctAnswer: "",
+  image: ""
+}, {
+  question: "",
+  answers: ["", "", "", ""],
+  correctAnswer: "",
+  image: ""
+}, {
+  question: "",
+  answers: ["", "", "", ""],
+  correctAnswer: "",
+  image: ""
+}, {
+  question: "",
+  answers: ["", "", "", ""],
+  correctAnswer: "",
+  image: ""
+}, {
+  question: "",
+  answers: ["", "", "", ""],
+  correctAnswer: "",
+  image: ""
+}];
 // New and improved section ends
 
 // Old Code starts
