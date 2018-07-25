@@ -8,10 +8,10 @@ var questions = [{
   correctAnswer: "Tom Brady and Charles Haley",
   image: "assets/images/TomB.gif"
 }, {
-  question: "",
-  answers: ["", "", "", ""],
-  correctAnswer: "",
-  image: ""
+  question: "Which running back has the most rushing yards in the history of the NFL? (18,355 yards)",
+  answers: ["Ahmad Green", "Adrian Peterson", "Ricky Williams", "Emmitt Smith"],
+  correctAnswer: "Emmitt Smith",
+  image: "assets/images/Amari.gif"
 }, {
   question: "",
   answers: ["", "", "", ""],
