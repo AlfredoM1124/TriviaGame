@@ -13,10 +13,10 @@ var questions = [{
   correctAnswer: "Emmitt Smith",
   image: "assets/images/Amari.gif"
 }, {
-  question: "",
-  answers: ["", "", "", ""],
-  correctAnswer: "",
-  image: ""
+  question: "Which coach has the most total wins in league history? (347 wins)",
+  answers: ["Bill Belichick", "Don Shula", "George Halas", "Tom Landry"],
+  correctAnswer: "Don Shula",
+  image: "assets/images/CJA.gif"
 }, {
   question: "",
   answers: ["", "", "", ""],
