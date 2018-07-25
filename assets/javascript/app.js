@@ -23,10 +23,10 @@ var questions = [{
   correctAnswer: "Jerry Rice",
   image: "assets/images/DrewBreezy.gif"
 }, {
-  question: "",
-  answers: ["", "", "", ""],
-  correctAnswer: "",
-  image: ""
+  question: "Who holds the longest rushing play in NFL history? (99 Yards)",
+  answers: ["Marshawn Lynch", "Tyreek Hill", "Todd Gurley", "Tony Dorsett"],
+  correctAnswer: "Tony Dorsett",
+  image: "assets/images/GioFlip.gif"
 }, {
   question: "",
   answers: ["", "", "", ""],
