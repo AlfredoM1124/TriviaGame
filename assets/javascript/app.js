@@ -18,10 +18,10 @@ var questions = [{
   correctAnswer: "Don Shula",
   image: "assets/images/CJA.gif"
 }, {
-  question: "",
-  answers: ["", "", "", ""],
-  correctAnswer: "",
-  image: ""
+  question: "Who has scored the most total touchdowns in NFL History? (208 TDs)",
+  answers: ["Jerry Rice", "Barry Sanders", "LaDainian Tomlinson", "Terrell Owens"],
+  correctAnswer: "Jerry Rice",
+  image: "assets/images/DrewBreezy.gif"
 }, {
   question: "",
   answers: ["", "", "", ""],
