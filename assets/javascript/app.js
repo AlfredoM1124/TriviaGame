@@ -38,10 +38,10 @@ var questions = [{
   correctAnswer: "Devin Hester",
   image: "assets/images/KickReturn.gif"
 }, {
-  question: "",
-  answers: ["", "", "", ""],
-  correctAnswer: "",
-  image: ""
+  question: "Who has the most yards from scrimmage ever? (23,540 yards from scrimmage)",
+  answers: ["Walter Peyton", "Jerry Rice", "Barry Sanders", "Randy Moss"],
+  correctAnswer: "Jerry Rice",
+  image: "assets/images/Pman.gif"
 }, {
   question: "",
   answers: ["", "", "", ""],
