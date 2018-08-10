@@ -43,10 +43,10 @@ var questions = [{
   correctAnswer: "Jerry Rice",
   image: "assets/images/Pman.gif"
 }, {
-  question: "",
-  answers: ["", "", "", ""],
-  correctAnswer: "",
-  image: ""
+  question: "Which of these Quarterbacks has the most passing yards in NFL history?",
+  answers: ["Drew Brees", "Brett Favre", "Peyton Manning", "Tom Brady"],
+  correctAnswer: "Peyton Manning",
+  image: "assets/images/ReggieW.gif"
 }, {
   question: "",
   answers: ["", "", "", ""],
