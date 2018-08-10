@@ -28,10 +28,10 @@ var questions = [{
   correctAnswer: "Tony Dorsett",
   image: "assets/images/GioFlip.gif"
 }, {
-  question: "",
-  answers: ["", "", "", ""],
-  correctAnswer: "",
-  image: ""
+  question: "Which Quarterback has the most 4th Quarter Comebacks in a single season? (8 4th Quarter Comebacks)",
+  answers: ["Drew Brees", "Tom Brady", "Matthew Stafford", "Aaron Rodgers"],
+  correctAnswer: "Matthew Stafford",
+  image: "assets/images/MikeBen.gif"
 }, {
   question: "",
   answers: ["", "", "", ""],
