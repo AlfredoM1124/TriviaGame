@@ -33,10 +33,10 @@ var questions = [{
   correctAnswer: "Matthew Stafford",
   image: "assets/images/MikeBen.gif"
 }, {
-  question: "",
-  answers: ["", "", "", ""],
-  correctAnswer: "",
-  image: ""
+  question: "Who has the most touchdowns returning kicks and punts in league history? (20 returns)",
+  answers: ["Devin Hester", "Rod Woodson", "Deion Sanders", "Darren Sproles"],
+  correctAnswer: "Devin Hester",
+  image: "assets/images/KickReturn.gif"
 }, {
   question: "",
   answers: ["", "", "", ""],
