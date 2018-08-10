@@ -48,10 +48,10 @@ var questions = [{
   correctAnswer: "Peyton Manning",
   image: "assets/images/ReggieW.gif"
 }, {
-  question: "",
-  answers: ["", "", "", ""],
-  correctAnswer: "",
-  image: ""
+  question: "Who intercepted Quarterbacks a record 14 times in one season?",
+  answers: ["Deion Sanders", "Night Trane Lane", "Lester Hayes", "Paul Krause"],
+  correctAnswer: "Night Trane Lane",
+  image: "assets/images/Odell.gif"
 }];
 // New and improved section ends
 
